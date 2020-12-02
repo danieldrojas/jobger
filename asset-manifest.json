@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jobger/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/jobger/static/js/main.ce11b0b6.chunk.js",
+    "main.js.map": "/jobger/static/js/main.ce11b0b6.chunk.js.map",
+    "runtime-main.js": "/jobger/static/js/runtime-main.62fc4331.js",
+    "runtime-main.js.map": "/jobger/static/js/runtime-main.62fc4331.js.map",
+    "static/js/2.302c3b41.chunk.js": "/jobger/static/js/2.302c3b41.chunk.js",
+    "static/js/2.302c3b41.chunk.js.map": "/jobger/static/js/2.302c3b41.chunk.js.map",
+    "static/js/3.fb153903.chunk.js": "/jobger/static/js/3.fb153903.chunk.js",
+    "static/js/3.fb153903.chunk.js.map": "/jobger/static/js/3.fb153903.chunk.js.map",
+    "index.html": "/jobger/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/jobger/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.302c3b41.chunk.js.LICENSE.txt": "/jobger/static/js/2.302c3b41.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62fc4331.js",
+    "static/js/2.302c3b41.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.ce11b0b6.chunk.js"
+  ]
+}
