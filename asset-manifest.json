@@ -1,22 +1,19 @@
 {
   "files": {
-    "main.css": "/jobger/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/jobger/static/js/main.ce11b0b6.chunk.js",
-    "main.js.map": "/jobger/static/js/main.ce11b0b6.chunk.js.map",
-    "runtime-main.js": "/jobger/static/js/runtime-main.62fc4331.js",
-    "runtime-main.js.map": "/jobger/static/js/runtime-main.62fc4331.js.map",
-    "static/js/2.302c3b41.chunk.js": "/jobger/static/js/2.302c3b41.chunk.js",
-    "static/js/2.302c3b41.chunk.js.map": "/jobger/static/js/2.302c3b41.chunk.js.map",
-    "static/js/3.fb153903.chunk.js": "/jobger/static/js/3.fb153903.chunk.js",
-    "static/js/3.fb153903.chunk.js.map": "/jobger/static/js/3.fb153903.chunk.js.map",
+    "main.js": "/jobger/static/js/main.2f6f7476.chunk.js",
+    "main.js.map": "/jobger/static/js/main.2f6f7476.chunk.js.map",
+    "runtime-main.js": "/jobger/static/js/runtime-main.7d80df82.js",
+    "runtime-main.js.map": "/jobger/static/js/runtime-main.7d80df82.js.map",
+    "static/js/2.e88bb134.chunk.js": "/jobger/static/js/2.e88bb134.chunk.js",
+    "static/js/2.e88bb134.chunk.js.map": "/jobger/static/js/2.e88bb134.chunk.js.map",
+    "static/js/3.e14bc22e.chunk.js": "/jobger/static/js/3.e14bc22e.chunk.js",
+    "static/js/3.e14bc22e.chunk.js.map": "/jobger/static/js/3.e14bc22e.chunk.js.map",
     "index.html": "/jobger/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/jobger/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.302c3b41.chunk.js.LICENSE.txt": "/jobger/static/js/2.302c3b41.chunk.js.LICENSE.txt"
+    "static/js/2.e88bb134.chunk.js.LICENSE.txt": "/jobger/static/js/2.e88bb134.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.62fc4331.js",
-    "static/js/2.302c3b41.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.ce11b0b6.chunk.js"
+    "static/js/runtime-main.7d80df82.js",
+    "static/js/2.e88bb134.chunk.js",
+    "static/js/main.2f6f7476.chunk.js"
   ]
 }
